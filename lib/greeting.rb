@@ -2,5 +2,5 @@
 
 name=Hal
 def greeting(name)
-  puts "Hello #{name} it's nice to meet you."
+  puts "Hello #{name}, what's your name?"
 end
